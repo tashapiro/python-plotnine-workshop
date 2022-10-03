@@ -9,13 +9,13 @@ Python Plotnine workshop organized with **R-Ladies** (Cologne, [Paris](https://t
 
 **[Plotnine](https://plotnine.readthedocs.io/en/stable/)** is a data visualization package based on R ggplot. In this's workshop, we'll explore how to create and style plots using **plotnine** in Python using. The live workshop was conducted in **[Google Colab](https://colab.research.google.com/)**. 
 
-Workshop materials include a **starter notebook** for participants who want to code along, and a **solutions notebook** with pre-filled code chunks. By the end of the workshop, participants will create a total of 3 different plot types, learning different tricks to improve each plot as the workshop progresses. Participants are encouraged to try creating their own plotnine charts post-workshop!
+Workshop materials include a **[starter notebook](https://github.com/tashapiro/python-plotnine-workshop/blob/main/code/plotnine_workshop_starter.ipynb)** for participants who want to code along, and a **[solutions notebook](https://github.com/tashapiro/python-plotnine-workshop/blob/main/code/plotnine_workshop_solutions.ipynb)** with pre-filled code chunks. The workshop covers how to employ different techniques in plotnine with 3 different plot type examples. 
 
 ---
 
 ## Workshop Intro
 
-Here are the intro slides of the workshop. Purpose of these slides is to recognize the unique crossover between R & Python and to cover basic ggplot/plotnine concepts.
+Here are the intro [slides](https://github.com/tashapiro/python-plotnine-workshop/blob/main/slides/plotnine-workshop.pdf). Purpose of these slides is to recognize the unique crossover between R & Python and to cover basic ggplot/plotnine concepts.
 
 ![plot](./slides/slide-png/slide-1.png)
 
