@@ -15,6 +15,12 @@ Workshop materials include a **starter notebook** for participants who want to c
 
 ## Workshop Intro
 
+Here are the intro slides of the workshop. Purpose of these slides is to recognize the unique crossover between R & Python and to cover basic ggplot/plotnine concepts.
+
+![plot](./slides/slide-png/slide-1.png)
+
+![plot](./slides/slide-png/slide-2.png)
+
 ## Workshop Agenda
 
 This workbook is divided into 5 sections:
